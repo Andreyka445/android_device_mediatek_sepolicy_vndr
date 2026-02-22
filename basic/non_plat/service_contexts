@@ -1,2 +1,5 @@
 # NFC
 vendor.nxp.nxpnfc_aidl.INxpNfc/default u:object_r:hal_nfc_service:s0
+
+# MediaCodec C2
+android.hardware.media.c2.IComponentStore/default    u:object_r:hal_codec2_service:s0
